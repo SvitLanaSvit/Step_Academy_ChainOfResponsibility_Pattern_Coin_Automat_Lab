@@ -1,0 +1,1 @@
+# ChainOfResponsibility_Pattern_Coin_Automat
